@@ -1,0 +1,49 @@
+.success-message {
+    color: green;
+    margin-bottom: 10px;
+    background: #c4ffbd;
+    padding: 10px 20px;
+}
+
+.error-message {
+    color: #510000;
+    margin-bottom: 10px;
+    background: #ffbdbd;
+    padding: 10px 20px;
+}
+
+.success-message.hidden {
+    display: none;
+}
+
+#profile-form label,
+#simple-auth-login-form label {
+    display: block;
+    margin-bottom: 20px;
+    font-size: 14px;
+}
+
+#profile-form input,
+#simple-auth-login-form input {
+    display: block;
+    margin-top: 5px;
+    padding: 8px 8px;
+    width: 100%;
+    border: 1px solid #ddd;
+    font-size: 16px;
+}
+
+#profile-form button,
+#simple-auth-login-form button {
+    background: #000;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    display: block;
+}
+
+#profile-form button:disabled,
+#simple-auth-login-form button:disabled {
+    background: #ccc;
+    color: #fff;
+}
