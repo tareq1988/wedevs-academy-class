@@ -1,0 +1,52 @@
+# Copyright (C) 2025 weDevs Academy
+# This file is distributed under the GPL2.
+msgid ""
+msgstr ""
+"Project-Id-Version: Academy i18n Demo 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wd-i18n\n"
+"POT-Creation-Date: 2025-01-25T11:14:38+00:00\n"
+"PO-Revision-Date: 2025-01-25 17:19+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: bn_BD\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+"X-Domain: wd-i18n\n"
+
+#. Plugin Name of the plugin
+#: wd-i18n.php
+msgid "Academy i18n Demo"
+msgstr "একাডেমি i18n ডেমো"
+
+#. Description of the plugin
+#: wd-i18n.php
+msgid "A simple plugin to demonstrate i18n in WordPress."
+msgstr "ওয়ার্ডপ্রেসে i18n প্রদর্শনের জন্য একটি সাধারণ প্লাগইন।"
+
+#. Author of the plugin
+#: wd-i18n.php
+msgid "weDevs Academy"
+msgstr "weDevs একাডেমী"
+
+#. Author URI of the plugin
+#: wd-i18n.php
+msgid "https://wedevs.academy"
+msgstr "https://wedevs.academy"
+
+#: wd-i18n.php:42 wd-i18n.php:43
+msgid "Academy Demo"
+msgstr "একাডেমি ডেমো"
+
+#: wd-i18n.php:58
+msgid "Welcome to the Academy i18n Demo!"
+msgstr "একাডেমি i18n ডেমোতে স্বাগতম!"
+
+#: wd-i18n.php:59
+msgid "This is a demonstration of internationalization in WordPress plugins."
+msgstr "এটি ওয়ার্ডপ্রেস প্লাগইনগুলিতে আন্তর্জাতিকীকরণের একটি প্রদর্শন।"
+
+#: wd-i18n.php:60
+msgid "Translate this plugin to your own language!"
+msgstr "আপনার নিজের ভাষায় এই প্লাগইন অনুবাদ করুন!"
