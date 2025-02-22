@@ -1,0 +1,103 @@
+/* General Styles */
+.wrap {
+    max-width: 800px;
+    margin: 20px auto;
+}
+
+h1 {
+    color: #23282d;
+    font-size: 23px;
+    font-weight: 400;
+    margin: 0 0 20px;
+    padding: 9px 0 4px;
+}
+
+h2 {
+    font-size: 1.3em;
+    margin: 1.5em 0 0.5em;
+}
+
+/* Form Styles */
+form {
+    background: #fff;
+    border: 1px solid #e5e5e5;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, .04);
+    padding: 20px;
+    margin-top: 20px;
+}
+
+form p {
+    margin-bottom: 15px;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: 600;
+}
+
+input[type="email"],
+input[type="text"],
+textarea {
+    width: 100%;
+    padding: 5px;
+    font-size: 14px;
+    line-height: 1.4;
+    border: 1px solid #ddd;
+    box-shadow: inset 0 1px 2px rgba(0, 0, 0, .07);
+    background-color: #fff;
+    color: #32373c;
+    outline: 0;
+    transition: 50ms border-color ease-in-out;
+}
+
+textarea {
+    min-height: 100px;
+}
+
+/* Radio Button Styles */
+.radio-group {
+    margin-bottom: 15px;
+}
+
+.radio-group label {
+    display: inline-block;
+    margin-right: 15px;
+    font-weight: normal;
+}
+
+/* Button Styles */
+.button {
+    margin-top: 10px;
+}
+
+/* HTTP API Demo Specific Styles */
+#posts-list {
+    margin-top: 20px;
+    background: #fff;
+    border: 1px solid #e5e5e5;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, .04);
+    padding: 20px;
+}
+
+#posts-list ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+#posts-list li {
+    margin-bottom: 10px;
+    padding: 10px;
+    background: #f9f9f9;
+    border: 1px solid #e5e5e5;
+}
+
+.delete-post {
+    margin-left: 10px;
+    color: #a00;
+    text-decoration: none;
+}
+
+.delete-post:hover {
+    color: #dc3232;
+}
